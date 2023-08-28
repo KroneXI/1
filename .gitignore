@@ -1,0 +1,10 @@
+# Ignore files created by IDEs.
+/.vscode/
+/.git/
+
+# Ignore compiled files.
+**/__pycache__/
+
+# Files that should not be ignored.
+!**/requirements*
+!.gitkeep
